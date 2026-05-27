@@ -7,7 +7,7 @@ Now I have no idea what can I write here, but I hope it change soon.
 
 Have a good time if U reading this now :)
 
-### 🚀 What I learning now?
+### 🚀 What I'm learning now?
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
