@@ -7,6 +7,11 @@ Now I have no idea what can I write here, but I hope it change soon.
 
 Have a good time if U reading this now :)
 
+### About me
+- My name is Damian
+- I'm 20 (2005 if I forget to update!)
+- I'm an IT student from Poland
+
 ### 🚀 What I'm learning now?
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +21,6 @@ Have a good time if U reading this now :)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 <!--
 **Djalbyn/Djalbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
