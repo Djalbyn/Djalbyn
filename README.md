@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm new here.
+Maybe I just started with programing, but I love it.
+
+Now I have no idea what can I write here, but I hope it change soon.
+
+Have a good time if U reading this now :)
+
 <!--
 **Djalbyn/Djalbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
